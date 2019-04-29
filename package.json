@@ -9,7 +9,6 @@
   "author": "Eslam El-araby",
   "license": "MIT",
   "dependencies": {
-    "gh-pages": "^2.0.1",
     "node-sass": "^4.12.0"
   }
 }
