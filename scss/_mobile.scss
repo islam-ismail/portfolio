@@ -75,4 +75,18 @@
   .projects {
     grid-template-columns: 1fr;
   }
+
+  .boxes {
+    div {
+      font-size: 1.5rem;
+      border: 2px #fff solid;
+      padding: 0.5rem 1rem;
+      margin-bottom: 2rem;
+      @include easeOut;
+
+      &:hover {
+        padding: 1rem 2rem;
+      }
+    }
+  }
 }
